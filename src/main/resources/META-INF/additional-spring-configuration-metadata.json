@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "database.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'database.driver'"
+  },
+  {
+    "name": "database.url",
+    "type": "java.lang.String",
+    "description": "A description for 'database.url'"
+  },
+  {
+    "name": "database.root",
+    "type": "java.lang.String",
+    "description": "A description for 'database.root'"
+  },
+  {
+    "name": "database.password",
+    "type": "java.lang.String",
+    "description": "A description for 'database.password'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "hibernate.hbm2ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.hbm2ddl.auto'"
+  },
+  {
+    "name": "hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.show_sql'"
+  }
+]}
